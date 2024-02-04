@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 123 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Layer1">
+    </g>
+    <g id="Layer11" serif:id="Layer1">
+    </g>
+    <g id="Artboard1" transform="matrix(0.877775,0,0,0.508387,-66.4286,-5.93017)">
+        <rect x="75.678" y="11.665" width="139.69" height="75.095" style="fill:none;"/>
+        <g transform="matrix(0.504363,0,0,1.11845,-32.5382,-59.0081)">
+            <rect x="223.652" y="68.704" width="264.599" height="56.484" style="fill:rgb(66,209,255);"/>
+        </g>
+        <g transform="matrix(0.502581,0,0,1.23371,-34.4181,-70.1821)">
+            <rect x="223.652" y="68.704" width="264.599" height="56.484" style="fill:none;stroke:rgb(11,10,10);stroke-width:2.77px;"/>
+        </g>
+        <g transform="matrix(1.13924,0,0,1.96701,-234.159,-137.834)">
+            <text x="282.384px" y="100.579px" style="font-family:'Avenir-Heavy', 'Avenir', sans-serif;font-weight:900;font-size:16px;">#<tspan x="292.512px 302.352px 316.336px 326.176px 336.016px 351.968px 364.176px 374.912px " y="100.579px 100.579px 100.579px 100.579px 100.579px 100.579px 100.579px 100.579px ">SOFTWARE</tspan></text>
+        </g>
+    </g>
+</svg>

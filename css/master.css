@@ -1,0 +1,415 @@
+
+/* main text title */
+.main-index
+{
+font-family: 'Bebas Neue', sans-serif;
+
+font-size: 75px;
+font-weight: 600;
+letter-spacing:0.7px;
+
+background: -webkit-linear-gradient(#bc20df, #ba3b98);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+/* main text margin level */
+.margine-level-main
+{
+  margin-top: 6rem;
+}
+
+.margine-level-main2
+{
+  margin-top: 4rem;
+}
+
+/* secondary text margin level */
+.margine-level-second
+{
+  margin-top: 3rem;
+}
+
+/* secondary text */
+.secondary-index
+{
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 300;
+  letter-spacing:0.7px;
+  color: #464646;
+}
+
+.section2-main
+{
+
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing:0.7px;
+
+
+}
+
+.second2-second
+{
+
+  font-weight: 300;
+  letter-spacing:0.7px;
+  color: #464646;
+
+}
+
+.box-icon
+{
+  text-decoration: none;
+
+}
+
+.tech-icons /* Js Php icons */
+{
+   text-decoration: none;
+   height: 20px;
+   color: #040c2b;
+   padding: 10px 10px;
+   border-radius: 12px;
+
+
+   background: -webkit-linear-gradient(#f46bf9, #dd1eff);
+   /*background: -webkit-linear-gradient(#f2f2f2, #f2f2f2);*/
+
+
+}
+
+.box-gray
+{
+  background: gray;
+}
+
+.footer-head
+{
+  font-family: 'Bebas Neue', sans-serif;
+
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing:0.7px;
+}
+
+
+/* Section 3 */
+
+/* margine * Left */
+.margine-section-3-L
+{
+  margin-top: 5rem;
+  padding-right: 4rem;
+
+}
+
+.section3-h1
+{
+  font-size: 18px;
+  letter-spacing:0.7px;
+
+  color: #297ce2;
+  padding: 10px 10px;
+
+}
+
+.p-color
+{
+  color: #686e75;
+}
+
+/* Section 04 */
+
+/* Section04 blue button "other buttons" */
+.btn-blue
+{
+
+  border-color: #c0c5cc;
+   border-radius: 25px;
+   color: white;
+   background: #8f0594;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   padding-left: 30px;
+   padding-right: 30px;
+
+}
+
+/*? "Learn more buttons"*/
+.btn-black{
+
+  border-color: #c0c5cc;
+   border-radius: 25px;
+   color: white;
+   background: #11022a;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+
+/* Section04 main title */
+.margine-level-section04
+{
+  margin-top: 8rem;
+
+}
+
+.section4-top-margin
+{
+    margin-bottom: 8rem;
+}
+/* Section 04 --- End */
+
+
+
+/* Section 05 */
+
+.margine-level-section05
+{
+  margin-top: 2rem;
+}
+
+
+/* Caurosel */
+.name-title
+{
+  color: #ce3ef1;
+}
+
+.quoate-text
+{
+  font-size: 18px;
+}
+
+/* margine * Right */
+.margine-section-3-R
+{
+  margin-top: 5rem;
+  padding-left: 4rem;
+}
+
+
+/* Section06 */
+.margin-section06
+{
+  margin-top: 12rem;
+  margin-bottom: 12rem;
+}
+
+/*----- Section 6 H2------*/
+
+.section6-h1
+{
+  font-size: 70px;
+}
+
+/*----- Section 6 ---- End ------>*/
+
+
+
+/*   footer-dev    */
+.footer-dev
+{
+  background:#f2f2f2;
+}
+
+.margin-footer
+{
+  margin-top: 4rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.sec-1
+{
+  background: #f0f1f5;
+}
+
+.footer-head
+{
+  margin-bottom: 1.2rem;
+  font-size: 20px;
+}
+
+.footer-link
+{
+  text-decoration: none;
+  color: #4f5257;
+  font-size: 16px;
+}
+
+.social-icons
+{
+  padding-right: 32px;
+}
+
+.social-icons li
+{
+  display: inline-block;
+  padding: 10px;
+
+
+}
+
+.fab{
+  font-size: 30px;
+  background: -webkit-linear-gradient(#ff55cf, #ff1ece);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.atfab
+{
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+
+/* --------------------------------------------------- */
+/* Engineering */
+
+.speci-margin
+{
+  margin-top: 6rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.speci-h5
+{
+  font-size: 22px;
+}
+
+
+/* icons */
+.fab2
+{
+  font-size: 40px;
+  background: -webkit-linear-gradient(#ff55cf, #ff1ece);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn-carousel{
+  background-color: green;
+}
+
+
+/** Contactus.html **/
+.main-index-contacus /*? ---------> Main Heading <h1> */
+{
+font-family: 'Bebas Neue', sans-serif;
+
+font-size: 60px;
+font-weight: 600;
+letter-spacing:0.05px;
+
+background: -webkit-linear-gradient(#bc20df, #ba3b98);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+/** Flex - Email, Address, Contact **/
+/*? Gray box inside address & numbers etc */
+.flex-white-box{ 
+
+  background-color: #f4f2f4;
+  border-radius: 15px;
+  padding: 14px 14px 14px 14px;
+}
+
+/*? separate hr line */
+.flex-white-box hr{ 
+
+ color:#8f0594;
+ margin: 10px 4px 10px 4px;
+
+}
+
+/** Flex item **/
+/*? between two item margin*/
+.flex-margin{   
+                         
+  margin-right: auto;
+  margin-left: 15px;
+}
+
+.flex-back-margin{
+
+  margin-left: auto;
+}
+
+.WhatsApp-btn :hover{
+
+  color: #4e9ff7;
+}
+
+.margin-contactus-girl{
+  
+  
+}
+
+
+/** Career.html **/
+
+/*? Job Available <h4> */
+.job-available-text{
+
+  border: #ba3b98 solid 2px;
+  border-radius: 25px;
+  margin: auto;
+  padding: 10px;
+  width: 180px;
+  
+  background: -webkit-linear-gradient(#9a08ba, #ba3b98);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.job-flex-back-margin{
+
+  margin-left: auto;
+}
+
+/*? Second job <p> Php + ( Tech ) */
+.job-second-tech{
+
+  color: #4f5257;
+
+}
+
+/** Special things highlight with color in the job vacancy **/
+.highlight {
+  
+  color: #ae1bd7;
+}
+
+/*? The Paragraph below Jobs section */
+.job-future{
+
+  margin: 80px 0px 30px 0px;
+  text-align: center;
+}
+
+
+/*? Navigation menu - Job available quick button  - index.html */ 
+.job-available-text-nav{
+
+  color: #ffffff;
+}
+
+/*? Nav menu Job Count - This create background crcle button */
+.job-count{
+
+  font-size: 14px;
+  background-color: #b631fd;
+  padding: 5px 10px 5px 10px;
+  border-radius: 50px;
+
+}
+
+.nav-job-btn:hover{
+  color: red;
+}
