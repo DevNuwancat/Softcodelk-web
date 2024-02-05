@@ -413,3 +413,39 @@ background: -webkit-linear-gradient(#bc20df, #ba3b98);
 .nav-job-btn:hover{
   color: red;
 }
+
+
+
+/* TODO -> Resonsive - @media */
+
+/*? Tech icons hiddnen, Engineering & Marketing section get to center */
+@media (max-width: 767.98px) {
+  .tech-icons{
+    display: none;
+  }
+  .margine-section-3-L{
+    padding: 0px 20px 0px 20px;
+    
+    
+  }
+  .margine-section-3-R{
+    padding: 0px 20px 0px 20px;;
+  
+}
+}
+/*? Tech icons hiddnen, Engineering & Marketing section get to center */
+@media (max-width: 1198.98px) {
+  .tech-icons{
+    display: none;
+  }
+  .margine-section-3-L{
+    padding: 0px 20px 0px 20px;
+   
+    
+  }
+  .margine-section-3-R{
+    padding: 0px 20px 0px 20px;;
+  
+}
+}
+
